@@ -1,3 +1,22 @@
+# Number detection system
+
+In this project we try to take images as an Input and try to detect Numbers in them.
+
+## System Requirements
+
+python - 3.x
+jupyter notebook
+keras
+Tensor flow 
+Pandas
+Matplotlib
+
+## Dataset 
+
+MNIST 
+
+## Model
+
 APPLYING CNN TO MNIST DATA SET
 
 To implement CNN this Model has two set of Neural networks Imported.
@@ -14,3 +33,63 @@ the details our given in the image decoder.png
 
 This Model is Trained on MNIST data set which contains black and white images of Numbers.
 This model is used to first create an big image consisting of many numbers then decode it using convolutional filters. 
+
+ ## Results
+
+A fully trained Neural net for classifying Numbers out of Images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
