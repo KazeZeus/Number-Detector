@@ -4,12 +4,12 @@ In this project we try to take images as an Input and try to detect Numbers in t
 
 ## System Requirements
 
-python - 3.x
-jupyter notebook
-keras
-Tensor flow 
-Pandas
-Matplotlib
+*python - 3.x
+*jupyter notebook
+*keras
+*Tensor flow 
+*Pandas
+*Matplotlib
 
 ## Dataset 
 
